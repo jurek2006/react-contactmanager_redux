@@ -1,1 +1,1 @@
-Sekcja 8 kursu - Redux
+React & Redux, Router
